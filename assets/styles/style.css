@@ -46,7 +46,7 @@ nav ul li a.active {
 }
 
 .purchase-btn {
-    background-color: #e44f34;
+    background-color: royalblue;
     color: #ffffff;
     border: none;
     padding: 7px 20px;
@@ -58,7 +58,7 @@ nav ul li a.active {
 }
 
 .purchase-btn:hover {
-    background-color: #c93e26;
+    background-color: rgb(57, 93, 202);
 }
 
 .menu-toggle {
