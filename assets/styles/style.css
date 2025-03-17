@@ -36,13 +36,14 @@ nav ul {
 nav ul li a {
     color: #ffffff;
     text-decoration: none;
+    font-weight: 600;
     font-size: 18px;
     transition: color 0.3s ease;
 }
 
 nav ul li a:hover,
 nav ul li a.active {
-    color: #e44f34;
+    color: rgb(72, 113, 233);
 }
 
 .purchase-btn {
@@ -58,7 +59,7 @@ nav ul li a.active {
 }
 
 .purchase-btn:hover {
-    background-color: rgb(57, 93, 202);
+    background-color: #395dca;
 }
 
 .menu-toggle {
