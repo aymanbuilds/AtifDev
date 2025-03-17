@@ -49,8 +49,9 @@ nav ul li a.active {
     background-color: #e44f34;
     color: #ffffff;
     border: none;
-    padding: 10px 20px;
+    padding: 7px 20px;
     font-size: 18px;
+    font-weight: 800;
     cursor: pointer;
     transition: background-color 0.3s ease;
     border-radius: 20px;
